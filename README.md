@@ -1,6 +1,7 @@
 # Script-Python
 estudo e scripts envolvendo python
-while True:  
+
+    while True:  
     try:
         idade = int(input("Digite sua idade: "))
         
@@ -13,4 +14,5 @@ while True:
     except ValueError:
         print("Você precisa digitar um número inteiro.")
 
-print("Sua idade é :",idade)
+    print("Sua idade é :",idade)
+
