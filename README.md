@@ -1,2 +1,2 @@
-# script-python
+# Script-Python
 estudo e scripts envolvendo python
