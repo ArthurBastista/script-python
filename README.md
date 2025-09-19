@@ -1,6 +1,7 @@
 # Script-Python
 estudo e scripts envolvendo python
 
+#Verificação de idade
     while True:  
     try:
         idade = int(input("Digite sua idade: "))
